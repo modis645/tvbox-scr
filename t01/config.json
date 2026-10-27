@@ -1,5 +1,5 @@
 {
-  "spider": "https://cdn.jsdelivr.net/gh/modis645/tvbox-scr@main/t01/spiders/j3376321eb45c.jar",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/modis645/tvbox-scr/main/t01/spiders/j3376321eb45c.jar",
   "sites": [
     {
       "key": "155",
