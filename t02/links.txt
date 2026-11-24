@@ -1,0 +1,21 @@
+# 有效站 97 个（按实测 ms 从快到慢），前置 t02
+ghfast.top（推荐）
+https://ghfast.top/https://raw.githubusercontent.com/modis645/tvbox-scr/main/t02/config_android_ghfast.json
+
+gh-proxy.com
+https://gh-proxy.com/https://raw.githubusercontent.com/modis645/tvbox-scr/main/t02/config_android_ghproxy.json
+
+ghproxy.net
+https://ghproxy.net/https://raw.githubusercontent.com/modis645/tvbox-scr/main/t02/config_android_ghproxy_net.json
+
+jsdelivr CDN
+https://cdn.jsdelivr.net/gh/modis645/tvbox-scr@main/t02/config_android_jsdelivr.json
+
+raw 直连（需能上 GitHub）
+https://raw.githubusercontent.com/modis645/tvbox-scr/main/t02/config_android_raw.json
+
+本机文件（离线可用，电视专用）
+file:///sdcard/cfg2/lzw97.json
+
+电脑端（仅直连站）
+https://ghfast.top/https://raw.githubusercontent.com/modis645/tvbox-scr/main/t02/config_pc.json
