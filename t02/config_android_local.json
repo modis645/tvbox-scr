@@ -473,17 +473,6 @@
    "jar": "\/sdcard\/spiders\/ja909ed2ce040.jar"
   },
   {
-   "key": "k0672",
-   "name": "❤ckzy",
-   "api": "https:\/\/ckzy.me\/api.php\/provide\/vod\/?ac=list",
-   "type": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "level": "B-mid",
-   "ms": 4125
-  },
-  {
    "key": "k0529",
    "name": "👒酷云七七",
    "api": "csp_Kunyu77",
@@ -857,17 +846,6 @@
    "jar": "\/sdcard\/spiders\/j2d842238d97d.jar"
   },
   {
-   "key": "k0180",
-   "name": "www.iqiyizyapi.com",
-   "api": "https:\/\/www.iqiyizyapi.com\/api.php\/provide\/vod\/?ac=list",
-   "type": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "level": "B-slow",
-   "ms": 10750
-  },
-  {
    "key": "k0307",
    "name": "爱看机器人",
    "api": "csp_Ikanbot",
@@ -1116,16 +1094,6 @@
    "quickSearch": 1,
    "level": "A-slow",
    "ms": 25283
-  },
-  {
-   "key": "h_805935483",
-   "name": "🌼极速┃资源🌼",
-   "api": "https:\/\/jszyapi.com\/api.php\/provide\/vod\/",
-   "type": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "level": "B-slow",
-   "ms": 25376
   },
   {
    "key": "h_1520856240",
