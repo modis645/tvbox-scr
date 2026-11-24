@@ -16,19 +16,6 @@
    "jar": "\/sdcard\/spiders\/j722d5c1bdcb1.jar"
   },
   {
-   "key": "k0399",
-   "name": "🐠┃热播┃秒播",
-   "api": "csp_TianTian",
-   "type": 3,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "http:\/\/v.rbotv.cn",
-   "level": "A-fast",
-   "ms": 498,
-   "jar": "\/sdcard\/spiders\/j542ed744b071.jar"
-  },
-  {
    "key": "k0632",
    "name": "河马 • 短剧",
    "api": "csp_ShortHema",
@@ -52,19 +39,6 @@
    "level": "A-fast",
    "ms": 845,
    "jar": "\/sdcard\/spiders\/j2d842238d97d.jar"
-  },
-  {
-   "key": "k0384",
-   "name": "⭐热播┃快速",
-   "api": "csp_RbysAmns",
-   "type": 3,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "Rbys",
-   "level": "A-fast",
-   "ms": 893,
-   "jar": "\/sdcard\/spiders\/jd93049ba6615.jar"
   },
   {
    "key": "k0213",
@@ -223,19 +197,6 @@
    "jar": "\/sdcard\/spiders\/aowuline.jar"
   },
   {
-   "key": "k0220",
-   "name": "📺热播┃多线",
-   "api": "csp_AppTTGuard",
-   "type": 3,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "uqGL1bNENExT7\/hGxpSE5qU=",
-   "level": "A-fast",
-   "ms": 1780,
-   "jar": "\/sdcard\/spiders\/j32091ed00f3c.jar"
-  },
-  {
    "key": "k0636",
    "name": "雷蒙影视 | 📖听听(SP)",
    "api": "csp_TSaowuAmns",
@@ -295,18 +256,6 @@
    "level": "A-fast",
    "ms": 2408,
    "jar": "\/sdcard\/spiders\/je279342bcaba.jar"
-  },
-  {
-   "key": "k0414",
-   "name": "💥独播┃秒播💥",
-   "api": "csp_WexAiDuBoKuGuard",
-   "type": 3,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "level": "A-fast",
-   "ms": 2409,
-   "jar": "\/sdcard\/spiders\/j722d5c1bdcb1.jar"
   },
   {
    "key": "k0246",
@@ -623,18 +572,6 @@
    "jar": "\/sdcard\/spiders\/j32091ed00f3c.jar"
   },
   {
-   "key": "k0416",
-   "name": "🎇爱看┃采集🎇",
-   "api": "csp_WexAiIkanBotGuard",
-   "type": 3,
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "level": "A-mid",
-   "ms": 6602,
-   "jar": "\/sdcard\/spiders\/j722d5c1bdcb1.jar"
-  },
-  {
    "key": "k0499",
    "name": "还行",
    "api": "csp_AppYs",
@@ -928,36 +865,6 @@
    "quickSearch": 1,
    "level": "B-slow",
    "ms": 14707
-  },
-  {
-   "key": "cms_lzizy8_com",
-   "name": "量子资源",
-   "api": "https:\/\/lzizy8.com\/api.php\/provide\/vod",
-   "type": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "level": "B-slow",
-   "ms": 15027
-  },
-  {
-   "key": "cms_lzizy5_com",
-   "name": "量子资源",
-   "api": "https:\/\/lzizy5.com\/api.php\/provide\/vod",
-   "type": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "level": "B-slow",
-   "ms": 15305
-  },
-  {
-   "key": "cms_lzizy2_com",
-   "name": "量子资源",
-   "api": "https:\/\/lzizy2.com\/api.php\/provide\/vod",
-   "type": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "level": "B-slow",
-   "ms": 15708
   },
   {
    "key": "k0020",
