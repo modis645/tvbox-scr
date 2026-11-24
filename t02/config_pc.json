@@ -215,36 +215,6 @@
    "ms": 14707
   },
   {
-   "key": "cms_lzizy8_com",
-   "name": "量子资源",
-   "api": "https:\/\/lzizy8.com\/api.php\/provide\/vod",
-   "type": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "level": "B-slow",
-   "ms": 15027
-  },
-  {
-   "key": "cms_lzizy5_com",
-   "name": "量子资源",
-   "api": "https:\/\/lzizy5.com\/api.php\/provide\/vod",
-   "type": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "level": "B-slow",
-   "ms": 15305
-  },
-  {
-   "key": "cms_lzizy2_com",
-   "name": "量子资源",
-   "api": "https:\/\/lzizy2.com\/api.php\/provide\/vod",
-   "type": 1,
-   "searchable": 1,
-   "quickSearch": 1,
-   "level": "B-slow",
-   "ms": 15708
-  },
-  {
    "key": "k0020",
    "name": "api.wujinapi.com",
    "api": "https:\/\/api.wujinapi.com\/api.php\/provide\/vod",
