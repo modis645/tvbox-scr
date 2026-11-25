@@ -1,4 +1,4 @@
-﻿{
+{
   "name": "TVBox t02 · 多线路（5 个代理）",
   "urls": [
     { "url": "https://raw.githubusercontent.com/modis645/tvbox-scr/main/t02/config_android_raw.json", "name": "raw 直连" },
