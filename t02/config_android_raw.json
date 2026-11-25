@@ -1035,6 +1035,26 @@
    "level": "A-slow",
    "ms": 42812,
    "jar": "https:\/\/raw.githubusercontent.com\/modis645\/tvbox-scr\/main\/t02\/spiders\/aowuline.jar.png"
+  },
+  {
+   "key": "cms_zuidapi_com",
+   "name": "ZUID资源",
+   "api": "https:\/\/api.zuidapi.com\/api.php\/provide\/vod",
+   "type": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "level": "B-slow",
+   "ms": 999999
+  },
+  {
+   "key": "cms_zuidazy_co",
+   "name": "ZUID影视",
+   "api": "https:\/\/zuidazy.co\/api.php\/provide\/vod",
+   "type": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "level": "B-slow",
+   "ms": 999999
   }
  ],
  "lives": [],
