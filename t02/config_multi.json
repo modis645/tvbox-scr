@@ -1,0 +1,10 @@
+﻿{
+  "name": "TVBox t02 · 多线路（5 个代理）",
+  "urls": [
+    { "url": "https://raw.githubusercontent.com/modis645/tvbox-scr/main/t02/config_android_raw.json", "name": "raw 直连" },
+    { "url": "https://ghfast.top/https://raw.githubusercontent.com/modis645/tvbox-scr/main/t02/config_android_ghfast.json", "name": "ghfast 主线" },
+    { "url": "https://gh-proxy.com/https://raw.githubusercontent.com/modis645/tvbox-scr/main/t02/config_android_ghproxy.json", "name": "gh-proxy 备用" },
+    { "url": "https://ghproxy.net/https://raw.githubusercontent.com/modis645/tvbox-scr/main/t02/config_android_ghproxy_net.json", "name": "ghproxy.net 备用" },
+    { "url": "https://cdn.jsdelivr.net/gh/modis645/tvbox-scr@main/t02/config_android_jsdelivr.json", "name": "jsDelivr CDN" }
+  ]
+}
