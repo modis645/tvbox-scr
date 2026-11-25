@@ -100,6 +100,18 @@
    "jar": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/modis645\/tvbox-scr\/main\/t02\/spiders\/j722d5c1bdcb1.jar.png"
   },
   {
+   "key": "Bddj",
+   "name": "📽️┃拜拜┃短剧",
+   "api": "csp_BddjAmns",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "level": "A-fast",
+   "ms": 1249,
+   "jar": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/modis645\/tvbox-scr\/main\/t02\/spiders\/aowuline.jar.png"
+  },
+  {
    "key": "k0599",
    "name": "🎧DJ悠悠",
    "api": "csp_Djuu",
@@ -158,6 +170,18 @@
    "level": "A-fast",
    "ms": 1312,
    "jar": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/modis645\/tvbox-scr\/main\/t02\/spiders\/jd93049ba6615.jar.png"
+  },
+  {
+   "key": "Qmdj",
+   "name": "📽️┃喵喵┃短剧",
+   "api": "csp_QmdjAmns",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "level": "A-fast",
+   "ms": 1322,
+   "jar": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/modis645\/tvbox-scr\/main\/t02\/spiders\/aowuline.jar.png"
   },
   {
    "key": "HHkk",
@@ -268,6 +292,18 @@
    "level": "A-fast",
    "ms": 2709,
    "jar": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/modis645\/tvbox-scr\/main\/t02\/spiders\/jd93049ba6615.jar.png"
+  },
+  {
+   "key": "TSaowu",
+   "name": "📖┃嗷嗚┃听书",
+   "api": "csp_TSaowuAmns",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "level": "A-fast",
+   "ms": 2781,
+   "jar": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/modis645\/tvbox-scr\/main\/t02\/spiders\/aowuline.jar.png"
   },
   {
    "key": "DMlmm",
@@ -514,6 +550,18 @@
    "ms": 5298
   },
   {
+   "key": "DMmodu",
+   "name": "🐱┃魔都┃动漫",
+   "api": "csp_DMmoduAmns",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "level": "A-mid",
+   "ms": 5355,
+   "jar": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/modis645\/tvbox-scr\/main\/t02\/spiders\/aowuline.jar.png"
+  },
+  {
    "key": "k0247",
    "name": "🐱牛来┃动漫",
    "api": "csp_DMoxAmns",
@@ -693,6 +741,18 @@
    "quickSearch": 1,
    "level": "B-slow",
    "ms": 9206
+  },
+  {
+   "key": "AiGua",
+   "name": "🌍┃爱瓜┃墙外",
+   "api": "csp_AiGuaAmns",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "level": "A-slow",
+   "ms": 9219,
+   "jar": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/modis645\/tvbox-scr\/main\/t02\/spiders\/aowuline.jar.png"
   },
   {
    "key": "k0013",
@@ -947,6 +1007,18 @@
    "quickSearch": 1,
    "level": "B-slow",
    "ms": 20813
+  },
+  {
+   "key": "JPian",
+   "name": "🔆┃荐片┃快速",
+   "api": "csp_JPianAmns",
+   "type": 3,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "level": "A-slow",
+   "ms": 20975,
+   "jar": "https:\/\/ghfast.top\/https:\/\/raw.githubusercontent.com\/modis645\/tvbox-scr\/main\/t02\/spiders\/aowuline.jar.png"
   },
   {
    "key": "k0216",
